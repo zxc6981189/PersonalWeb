@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on 去圖書館借一本書</title>
-    <link>//localhost:59207/abouts/</link>
+    <link>http://localhost:1313/PersonalWeb/abouts/</link>
     <description>Recent content in Abouts on 去圖書館借一本書</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zxc6981189@gmail.com (Liam Feng)</managingEditor>
     <webMaster>zxc6981189@gmail.com (Liam Feng)</webMaster>
     <copyright>© 2025 Liam Feng</copyright>
-    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:59207/abouts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/PersonalWeb/abouts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>skill</title>
-      <link>//localhost:59207/abouts/1765239176127-skill/</link>
+      <link>http://localhost:1313/PersonalWeb/abouts/1765239176127-skill/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
       <author>zxc6981189@gmail.com (Liam Feng)</author>
-      <guid>//localhost:59207/abouts/1765239176127-skill/</guid>
+      <guid>http://localhost:1313/PersonalWeb/abouts/1765239176127-skill/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:59207/abouts/1765239176127-skill/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalWeb/abouts/1765239176127-skill/featured.png" />
     </item>
     
     <item>
       <title>about me</title>
-      <link>//localhost:59207/abouts/1765203208518-about-me/</link>
+      <link>http://localhost:1313/PersonalWeb/abouts/1765203208518-about-me/</link>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
       <author>zxc6981189@gmail.com (Liam Feng)</author>
-      <guid>//localhost:59207/abouts/1765203208518-about-me/</guid>
+      <guid>http://localhost:1313/PersonalWeb/abouts/1765203208518-about-me/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:59207/abouts/1765203208518-about-me/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalWeb/abouts/1765203208518-about-me/featured.png" />
     </item>
     
   </channel>

@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = ["blowfish", "hugo-admonitions"] # UNCOMMENT THIS LINE
-# baseURL = "https://your_domain.com/"
+baseURL = "https://zxc6981189.github.io/PersonalWeb/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
