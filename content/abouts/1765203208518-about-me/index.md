@@ -27,8 +27,8 @@ draft: false
     - Perl
 
 ## 作品集
-- [測試](/PersonalWeb/posts/)
-- [推休金預估沙盤推演 App](/PersonalWeb/apps/my-retirement-app/index.html)
+- [測試](./posts/)
+- [推休金預估沙盤推演 App](./apps/my-retirement-app/index.html)
 
 ## 工作經歷
 - 2023/9 - present 聯華電子 電路模擬元件模型工程師
