@@ -53,7 +53,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: "https://zxc6981189.github.io/PersonalWeb/"
     runs-on: ubuntu-latest
     needs: build
     steps:
