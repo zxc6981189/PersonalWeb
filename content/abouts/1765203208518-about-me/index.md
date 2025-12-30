@@ -25,13 +25,18 @@ draft: false
 - **Linux**:
     - Bash
     - Perl
+    - Git
 
 ## 作品集
-- [測試](/PersonalWeb/posts/)
-- [推休金預估沙盤推演 App](/PersonalWeb/apps/my-retirement-app/index.html)
+- **Self learning:** [學習筆記](/PersonalWeb/posts/)
+- **Vide coding App:** [推休金預估沙盤推演 App](/PersonalWeb/apps/my-retirement-app/index.html)
 
 ## 工作經歷
 - 2023/9 - present 聯華電子 電路模擬元件模型工程師
+    - 以半導體理論模型BSIM描述描述半導體元件特性，提供客戶元件設計元件模型
+    - 使用Python、Linux Bash Script、Excel VBA等工具梳理模擬資料
+    -
+
 
 ## 興趣
 - 運動
@@ -43,9 +48,3 @@ draft: false
 - 成為具備產品能力的工程師
 - 建立自己的系統與工具
 - 發展高度自由的技術職涯
-
-> [!NOTE]
-> A Note type admonition.
-
-> [!TIP]+ Custom Title
-> A collapsible admonition with custom title.

@@ -10,13 +10,13 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 
-  [params.author]
+[params.author]
   name = "Liam Feng"
   email = "zxc6981189@gmail.com"
   headline = "圖書館是你知識的寶庫"
-
-    [[params.author.links]]
-    email = "zxc6981189@gmail.com"
-
-["params.author"]
-image = "run.png"
+  links = [
+   { instagram = "https://instagram.com/zxc6981189" },
+   { facebook = "https://www.facebook.com/zxc6981189/" },
+   { email = "zxc6981189@gmail.com" }
+   ]
+  image = "run.png"
