@@ -1,7 +1,7 @@
 ---
 title: "Git"
 date: 2025-12-30
-draft: true
+draft: false
 description: "a description"
 tags: ["example", "tag"]
 ---

@@ -1,6 +1,6 @@
 ---
-title: "about me"
-date: 2025-12-08
+title: "About me"
+date: 2025-12-30
 draft: false
 ---
 
@@ -35,7 +35,6 @@ draft: false
 - 2023/9 - present 聯華電子 電路模擬元件模型工程師
     - 以半導體理論模型BSIM描述描述半導體元件特性，提供客戶元件設計元件模型
     - 使用Python、Linux Bash Script、Excel VBA等工具梳理模擬資料
-    -
 
 
 ## 興趣
